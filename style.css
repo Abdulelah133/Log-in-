@@ -1,0 +1,18 @@
+body {
+    background: #a9a9a9;
+    text-align: center;
+    padding: auto;
+    text-shadow: #00a6ffd9;
+  }
+  form{
+    width: 500px;
+    margin: 100px auto;
+
+  }
+ table{
+  box-shadow: 2px 2px 100px 100px chartreuse;
+  border: 5px #00a6ffd9 groove;
+  border-radius: 20px;
+  border-spacing: 5px;
+
+ }     
